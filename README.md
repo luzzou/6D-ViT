@@ -52,8 +52,7 @@ You will get the following results
 
 
 
-
-<p align="center"><table>
+<table>
     <tr>
         <td>Dataset</td> 
         <td>Category</td> 
@@ -137,11 +136,6 @@ You will get the following results
         <td >0.6989</td>  
     </tr>
 </table>
-</p>
-
-
-
-
 
 
 
