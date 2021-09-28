@@ -18,6 +18,7 @@ More information will be released after the paper is accepted.
 * Python 3.6
 * PyTorch 1.7.1+cu110
 * CUDA 11.2
+* OpenCV-python 4.4.0
 
 
 
