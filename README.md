@@ -53,8 +53,7 @@ You will get the following results
 
 
 
-<p align="center">HelloWorld
-<table>
+<p align="center"><table>
     <tr>
         <td>Dataset</td> 
         <td>Category</td> 
