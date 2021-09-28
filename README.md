@@ -43,7 +43,7 @@ python evaluate_mean_real.py
 ```
 
 
-You will get the following results
+The evaluation results will be generated under the folder _$ROOT/results/6D-ViT_results/real_test/_
 
 
 ![teaser](demo/mAP_real_test.png)
