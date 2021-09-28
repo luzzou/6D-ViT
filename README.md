@@ -34,6 +34,7 @@ More implementation details will be released once the paper is accepted.
 ```
 unzip -q real_test.zip
 ROOT=/path/to/6D-ViT
+mkdir $ROOT/results
 mv real_test/* $ROOT/results
 rmdir real_test
 mv test_list.txt $ROOT/
