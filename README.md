@@ -7,11 +7,9 @@
 
 ## Overview
 
-In this repo, we provide our pose estimation results on the REAL275 test set to evaluate the performance of our method.
+This is the offical repository of our recent work _6D-ViT_, we provide the pose estimation results on the REAL275 testset to evaluate the performance of our method.
 
-More implementation details will be released once the paper is accepted.
-
-
+More information will be released after the paper is accepted.
 
 
 
@@ -26,9 +24,8 @@ More implementation details will be released once the paper is accepted.
 ## Evaluation on the REAL275 testset
 
 
-1. Download the Mask R-CNN results,  pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
-
-2. Download the testlist from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
+* Download the Mask R-CNN results,  pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
+* Download the testlist from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
 
 
 ```
@@ -144,4 +141,4 @@ The evaluation results will be generated under the folder _$ROOT/results/6D-ViT_
 
 # Acknowledgement
 
-We thank for [object-deformnet](https://github.com/mentian/object-deformnet) for releasing their code.
+Our work is built upon [object-deformnet](https://github.com/mentian/object-deformnet), we thank the authors for releasing their code.
