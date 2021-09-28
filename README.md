@@ -24,8 +24,8 @@ More information will be released after the paper is accepted.
 ## Evaluation on the REAL275 testset
 
 
-* Download the Mask R-CNN results,  pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
-* Download the testlist from [here](https://drive.google.com/drive/folders/1nfELPlLWQwbGd4U5rC-l6wll7dkE4DEL)
+* Download the Mask R-CNN results,  pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/file/d/1C26e8qo-RMKUUlZ39s72joG8R_VECB_W/view?usp=sharing)
+* Download the testlist from [here](https://drive.google.com/file/d/1C26e8qo-RMKUUlZ39s72joG8R_VECB_W/view?usp=sharing)
 
 
 ```
