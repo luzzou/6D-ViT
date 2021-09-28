@@ -33,7 +33,9 @@ More implementation details will be released once the paper is accepted.
 
 ```
 unzip -q real_test.zip
-mv real_test/ $ROOT/results
+ROOT=/path/to/6D-ViT
+mv real_test/* $ROOT/results
+rmdir real_test
 mv test_list.txt $ROOT/
 cd $ROOT
 python evaluate_mean_real.py
