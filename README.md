@@ -7,7 +7,7 @@
 
 ## Overview
 
-This is the offical repository of our recent work _6D-ViT_, we provide the pose estimation results on the REAL275 testset to evaluate the performance of our method.
+This is the offical repository of our recent work **6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning**, we provide the pose estimation results on the REAL275 testset to evaluate the performance of our method.
 
 More information will be released after the paper is accepted.
 
