@@ -7,7 +7,7 @@
 
 ## Overview
 
-This is the offical repository of our recent work **6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning**, we provide the pose estimation results on the REAL275 testset to evaluate the performance of our method.
+This is the offical repository of our recent work [**6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning**](https://ieeexplore.ieee.org/document/9933183), we provide the pose estimation results on the REAL275 testset to evaluate the performance of our method.
 
 More information will be released after the paper is accepted.
 
@@ -25,7 +25,7 @@ More information will be released after the paper is accepted.
 ## Evaluation on the REAL275 testset
 
 
-* Download the Mask R-CNN results,  pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/file/d/1BHHqP7tKkQos4_H0NtztWoy79-YdnVrP/view?usp=sharing)
+* Download the Mask R-CNN results, pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/file/d/1BHHqP7tKkQos4_H0NtztWoy79-YdnVrP/view?usp=sharing)
 
 
 ```
@@ -142,14 +142,14 @@ If you find this work helpful, please consider citing
 
 ```
 @ARTICLE{9933183,  
-  author={Zou, Lu and Huang, Zhangjin and Gu, Naijie and Wang, Guoping},  
-  journal={IEEE Transactions on Image Processing},   
-  title={6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning},   
-  year={2022},  
-  volume={31},  
-  number={},  
-  pages={6907-6921},  
-  doi={10.1109/TIP.2022.3216980}}
+ author={Zou, Lu and Huang, Zhangjin and Gu, Naijie and Wang, Guoping},  
+ journal={IEEE Transactions on Image Processing},     
+ title={6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning},   
+ year={2022},  
+ volume={31},  
+ number={},  
+ pages={6907-6921},  
+ doi={10.1109/TIP.2022.3216980}}
 
 ```
 
