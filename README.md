@@ -141,15 +141,15 @@ If you find this work helpful, please consider citing
 
 
 ```
-@ARTICLE{9933183,  
- author={Zou, Lu and Huang, Zhangjin and Gu, Naijie and Wang, Guoping},  
- journal={IEEE Transactions on Image Processing},     
- title={6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-Based Instance Representation Learning},   
- year={2022},  
- volume={31},  
- number={},  
- pages={6907-6921},  
- doi={10.1109/TIP.2022.3216980}}
+@article{zou20226d,
+  title={6d-vit: Category-level 6d object pose estimation via transformer-based instance representation learning},
+  author={Zou, Lu and Huang, Zhangjin and Gu, Naijie and Wang, Guoping},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={6907--6921},
+  year={2022},
+  publisher={IEEE}
+}
 
 ```
 
