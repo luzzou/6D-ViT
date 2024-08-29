@@ -26,6 +26,7 @@ More information will be released soon.
 
 
 * Download the Mask R-CNN results, pose predictions by NOCS, NOF, SPD and our 6D-ViT from [here](https://drive.google.com/file/d/1BHHqP7tKkQos4_H0NtztWoy79-YdnVrP/view?usp=sharing)
+* The pretrained model on the NOCS-REAL dataset is [here](https://drive.google.com/file/d/1IEPk8BOpBnvNPBdLf4wh_pp5irWT3FsJ/view?usp=drive_link)
 
 
 ```
